@@ -1,0 +1,18 @@
+/* index.css */
+
+.clerk-signin-btn {
+  background-color: #0052cc;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease;
+}
+
+.clerk-signin-btn:hover {
+  background-color: #003d99;
+}
